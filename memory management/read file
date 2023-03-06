@@ -1,0 +1,10 @@
+new() keyword use for allocate memory but it doesn't initialize
+we will get a memory address
+zeroes storage(we can't put any data)
+
+make() keyword use for allocate memory and it initialze
+we will get a memory address 
+non-zeroes storage (we can put our data)
+
+//garbage collector happens automatically
+//to learn more, visit this site: https://go.dev/doc/
